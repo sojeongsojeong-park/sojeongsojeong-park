@@ -3,7 +3,7 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,react,figma)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,figma)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojeongsojeong-park&hide=TeX&layout=compact)
